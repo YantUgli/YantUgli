@@ -47,7 +47,7 @@
 </div>
 
 ###
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YantUgli/YantUgli/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YantUgli/YantUgli/output/pacman-contribution-graph.svg">
@@ -56,11 +56,10 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-   <img src="https://raw.githubusercontent.com/yantugli/yantugli/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/yantugli/yantugli/stats-output/stats.svg" height="150" alt="stats graph"  />
   <img src="https://raw.githubusercontent.com/yantugli/yantugli/languages-output/languages.svg" height="150" alt="languages graph"  />
+
+###
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YantUgli&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
